@@ -1,0 +1,3 @@
+[submodule "GitSM_Unity_Main/Assets/Clock"]
+	path = GitSM_Unity_Main/Assets/Clock
+	url = https://github.com/bvelado/GitSM_Unity_Submodule
